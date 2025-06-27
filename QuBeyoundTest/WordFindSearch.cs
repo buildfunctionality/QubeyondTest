@@ -42,7 +42,6 @@ namespace QuBeyoundTest
             {
                 if (string.IsNullOrWhiteSpace(word)) continue;
 
-                //bool existsInRow = _rows.Contains(word) ? true : false || _columns.Contains(word) ? true : false;
                 bool existsInRow = _rows.Any(r => r.Contains(word, StringComparison.OrdinalIgnoreCase)) || _columns.Any(c => c.Contains(word, StringComparison.OrdinalIgnoreCase));
 
                 if (existsInRow)
