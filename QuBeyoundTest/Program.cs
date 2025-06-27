@@ -7,6 +7,7 @@ using System.Collections;
 
 Console.WriteLine("Find word test");
 
+// set matrix 
 IEnumerable matrix = new List<string>
         {
             "coldparkcs",
@@ -31,11 +32,11 @@ var host = Host.CreateDefaultBuilder()
           })
           .Build();
 
-var stream = new List<string> { "chill", "cold", "wind","ice","storm","hot","warm","fall","car","dog","park" };
-//var stream = new List<string> {  "factorial" };
+var stream = new List<string> { "chill", "cold", "wind", "ice", "storm", "hot", "warm", "fall", "car", "dog", "park" };
+//var stream = new List<string> {  "factory" }; // not exiting word
 
 //var finder = new WordFindSearch((IEnumerable<string>)matrix); without DI 
-var finder = host.Services.GetRequiredService<IWordFindSearch>();
+var finder = host.Services.GetRequiredService<IWordFindSearch>();// Get using DI 
 var results = finder.Find(stream);
 
 Console.WriteLine("Top 10 found words:");

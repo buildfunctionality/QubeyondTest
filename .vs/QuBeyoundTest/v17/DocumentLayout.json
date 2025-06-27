@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|c:\\users\\alito\\source\\repos\\qubeyoundtest\\qubeyoundtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|solutionrelative:qubeyoundtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|c:\\users\\alito\\source\\repos\\qubeyoundtest\\qubeyoundtest\\wordfindsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|solutionrelative:qubeyoundtest\\wordfindsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576DE4EA-23F1-40C4-93B1-1E4F7CCDC1C7}|TestFindWord\\TestFindWord.csproj|c:\\users\\alito\\source\\repos\\qubeyoundtest\\testfindword\\unittestfindwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576DE4EA-23F1-40C4-93B1-1E4F7CCDC1C7}|TestFindWord\\TestFindWord.csproj|solutionrelative:testfindword\\unittestfindwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576DE4EA-23F1-40C4-93B1-1E4F7CCDC1C7}|TestFindWord\\TestFindWord.csproj|c:\\users\\alito\\source\\repos\\qubeyoundtest\\testfindword\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576DE4EA-23F1-40C4-93B1-1E4F7CCDC1C7}|TestFindWord\\TestFindWord.csproj|solutionrelative:testfindword\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|c:\\users\\alito\\source\\repos\\qubeyoundtest\\qubeyoundtest\\interface\\iwordfindsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|solutionrelative:qubeyoundtest\\interface\\iwordfindsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|c:\\users\\alito\\source\\repos\\qubeyoundtest\\qubeyoundtest\\qubeyoundtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|solutionrelative:qubeyoundtest\\qubeyoundtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|c:\\users\\alito\\source\\repos\\qubeyoundtest\\qubeyoundtest\\wordfindtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2C0242-AA82-4DA4-8AFE-815200A25D43}|QuBeyoundTest\\QuBeyoundTest.csproj|solutionrelative:qubeyoundtest\\wordfindtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\TestFindWord\\Setup.cs",
+              "RelativeDocumentMoniker": "TestFindWord\\Setup.cs",
+              "ToolTip": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\TestFindWord\\Setup.cs",
+              "RelativeToolTip": "TestFindWord\\Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:13:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTestFindWords.cs",
+              "DocumentMoniker": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\TestFindWord\\UnitTestFindWords.cs",
+              "RelativeDocumentMoniker": "TestFindWord\\UnitTestFindWords.cs",
+              "ToolTip": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\TestFindWord\\UnitTestFindWords.cs",
+              "RelativeToolTip": "TestFindWord\\UnitTestFindWords.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:49:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordFindSearch.cs",
+              "DocumentMoniker": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\WordFindSearch.cs",
+              "RelativeDocumentMoniker": "QuBeyoundTest\\WordFindSearch.cs",
+              "ToolTip": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\WordFindSearch.cs",
+              "RelativeToolTip": "QuBeyoundTest\\WordFindSearch.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:29:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\Program.cs",
+              "RelativeDocumentMoniker": "QuBeyoundTest\\Program.cs",
+              "ToolTip": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\Program.cs*",
+              "RelativeToolTip": "QuBeyoundTest\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:27:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WordFindTest.cs",
+              "DocumentMoniker": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\WordFindTest.cs",
+              "RelativeDocumentMoniker": "QuBeyoundTest\\WordFindTest.cs",
+              "ToolTip": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\WordFindTest.cs",
+              "RelativeToolTip": "QuBeyoundTest\\WordFindTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:29:53.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWordFindSearch.cs",
+              "DocumentMoniker": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\Interface\\IWordFindSearch.cs",
+              "RelativeDocumentMoniker": "QuBeyoundTest\\Interface\\IWordFindSearch.cs",
+              "ToolTip": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\Interface\\IWordFindSearch.cs",
+              "RelativeToolTip": "QuBeyoundTest\\Interface\\IWordFindSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:28:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuBeyoundTest",
+              "DocumentMoniker": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\QuBeyoundTest.csproj",
+              "RelativeDocumentMoniker": "QuBeyoundTest\\QuBeyoundTest.csproj",
+              "ToolTip": "C:\\Users\\alito\\Source\\Repos\\QuBeyoundTest\\QuBeyoundTest\\QuBeyoundTest.csproj",
+              "RelativeToolTip": "QuBeyoundTest\\QuBeyoundTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T12:27:37.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
