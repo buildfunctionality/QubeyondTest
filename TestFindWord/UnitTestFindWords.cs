@@ -65,10 +65,10 @@ namespace TestFindWord
                 "lmnrstuvntry",
                 "qwertyuiopuj",
                 "snowfallszer",
-                "rainxfallzom",
-                "teidfdjahrty",
-                "raincloudnot",
-                "givetestarca"
+                "rainxfallzop",
+                "teidfdjahrta",
+                "raincloudnor",
+                "givetestarck"
             };
 
             IHost host = Setup.CreateHost(matrix);
